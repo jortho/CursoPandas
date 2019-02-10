@@ -1,2 +1,0 @@
-# CursoPandas
-Curso de pandas
