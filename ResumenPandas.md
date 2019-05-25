@@ -4,6 +4,8 @@
 
 Busquedas y selecciones:
 
+df.head(x)
+
 df=pd.DataFrame(columns=['Pais'])
 
 Selección:
