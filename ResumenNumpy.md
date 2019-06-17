@@ -1,0 +1,13 @@
+funciones:
+.zeros()
+.ones()
+.empty()
+.arange()
+.sum()
+.max()
+.eye()
+.linspace()
+.reshape()
+.mean()
+.std()
+a[:,n].funcion()
